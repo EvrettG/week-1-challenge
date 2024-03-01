@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    min-width: 1280px;
 }
 
 /* Header information */
