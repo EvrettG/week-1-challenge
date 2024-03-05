@@ -156,6 +156,8 @@ You are required to submit the following for review:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-#   w e e k - 1 - c h a l l e n g e  
- #   w e e k - 1 - c h a l l e n g e  
+#   w e e k - 1 - c h a l l e n g e 
+ 
+ #   w e e k - 1 - c h a l l e n g e 
+ 
  
