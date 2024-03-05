@@ -10,6 +10,7 @@ A basic refactor of code provide for this Challenge, which includes:
 * Adding coments to CSS code to improve readability
 * Added appropriate Title text to page
 * Created a new README.md file
+* semantic elements added
   ./Assets/images/Horiseon-1.png
   ./Assets/images/Horiseon-2.png
   ./Assets/images/Horiseon-3.png
